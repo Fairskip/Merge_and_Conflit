@@ -1,3 +1,5 @@
+LOCAL
+
 Ceci est la partie 1 du challenge de la quête 1 Git/Github 5 Merge & Conflits.
 
 Au lieu d'écrire quelques lignes et me casser la tête à trouver quoi écrire, je vais simplement faire un copie/coller du challenge.
